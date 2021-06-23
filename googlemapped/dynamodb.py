@@ -170,5 +170,5 @@ class query:
                 for delete in range(1,occurrences):
                     uniquevalues.remove(node[attribute])
         return uniquevalues
-#test=scan_table_allpages("30.45_-84.32","Vendor","PEGATRONCORPORATION")
+
 
